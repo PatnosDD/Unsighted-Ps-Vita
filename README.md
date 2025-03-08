@@ -1,9 +1,6 @@
 # Unsighted for the PS Vita
 This repository contains the necessary patches to create fully functional files for running Unsighted on the PS Vita.
 
-# THE PORT IS NOT YET RELEASED
-
-
 **IMPORTANT:** You must own **Unsighted** on **Steam** or **GOG** to use this patch!  
 
 ---
@@ -47,7 +44,7 @@ In order to have the best possible experience, I recommend you to use following 
 1. Visit the **Releases** page of this repository and download `UnsightedVitaSTEAM.zip`.
 2. Extract the downloaded zip to a folder on your PC.
 3. Copy the Steam game folder into the extracted folder.  
-   **Note:** Your `UnsightedVitaPatchSteam` folder should look like this:
+   **Note:** Your `UnsightedVitaSTEAM` folder should look like this:
 ```
    └── UnsightedVitaPatchSteam/
     ├── Unsighted/  <- ../steamapps/common/Unsighted
@@ -78,7 +75,7 @@ In order to have the best possible experience, I recommend you to use following 
 2. Extract the downloaded zip to a folder on your PC.
 3. Copy the GOG game folder into the extracted folder.  
 
-   **Note:** Your `UnsightedVitaPatchGOG` folder should look like this:
+   **Note:** Your `UnsightedVitaGOG` folder should look like this:
 ```
    └── UnsightedVitaPatchSteam/
     ├── Unsighted_Data/  <- ../GOG/Unsighted/Unsighted_Data
@@ -112,4 +109,24 @@ In order to have the best possible experience, I recommend you to use following 
 ---
 
 ### Disclaimer
-This patch requires a legally purchased copy of UNSI22233.
+This patch requires a legally purchased copy of UNSIGHTED.
+
+
+### CONTROLS
+
+| **Button**      | **Action**              |
+|-----------------|-------------------------|
+| D-Pad Up        | **Aim Lock**             |
+| D-Pad Left      | **Heal**           |
+| D-Pad Right     | **Reload**          |
+| Left Analog Stick | **Move**         |
+| Right Analog Stick | **Aim**  |
+| L Button        | **Weapon 1**               |
+| R Button        | **Weapon 2**              |
+| Square Button   | **Run**            |
+| Triangle Button | **Interact**       |
+| Circle Button   | **Block**               |
+| Cross Button    | **Jump**                |
+| Select Button   | **Map Map**               |
+| Start Button    | **Pause**           |
+
